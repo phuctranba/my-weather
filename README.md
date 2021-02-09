@@ -11,7 +11,7 @@ A simple weather app with api [Dark Sky](https://darksky.net/)
 * [Dark Sky](https://darksky.net/)
 
 ## Screen Shot
-![Screen shot](./MyWeather/ScreenShot/ScreenShot.png)
+<img class="img-fluid" src="./MyWeather/ScreenShot/ScreenShot.png" alt="img-verification" width="400">
 
 ## Development team
 * [Phuc Tran Ba](https://github.com/phuctranba)
