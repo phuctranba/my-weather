@@ -20,7 +20,7 @@
 		182D40E225D18E760080F654 /* WeatherCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D40E025D18E760080F654 /* WeatherCollectionViewCell.swift */; };
 		182D40E325D18E760080F654 /* WeatherCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 182D40E125D18E760080F654 /* WeatherCollectionViewCell.xib */; };
 		182D40E625D21BE90080F654 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 182D40E525D21BE90080F654 /* background.jpg */; };
-		182D40EA25D2222B0080F654 /* Screen Shot.png in Resources */ = {isa = PBXBuildFile; fileRef = 182D40E925D2222B0080F654 /* Screen Shot.png */; };
+		182D40EA25D2222B0080F654 /* ScreenShot.png in Resources */ = {isa = PBXBuildFile; fileRef = 182D40E925D2222B0080F654 /* ScreenShot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,7 +39,7 @@
 		182D40E025D18E760080F654 /* WeatherCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherCollectionViewCell.swift; sourceTree = "<group>"; };
 		182D40E125D18E760080F654 /* WeatherCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WeatherCollectionViewCell.xib; sourceTree = "<group>"; };
 		182D40E525D21BE90080F654 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
-		182D40E925D2222B0080F654 /* Screen Shot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot.png"; sourceTree = "<group>"; };
+		182D40E925D2222B0080F654 /* ScreenShot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScreenShot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,7 +118,7 @@
 		182D40E825D220E40080F654 /* ScreenShot */ = {
 			isa = PBXGroup;
 			children = (
-				182D40E925D2222B0080F654 /* Screen Shot.png */,
+				182D40E925D2222B0080F654 /* ScreenShot.png */,
 			);
 			path = ScreenShot;
 			sourceTree = "<group>";
@@ -182,7 +182,7 @@
 			files = (
 				182D40D725D12E3D0080F654 /* WeatherTableViewCell.xib in Resources */,
 				182D40DD25D12E600080F654 /* HourlyTableViewCell.xib in Resources */,
-				182D40EA25D2222B0080F654 /* Screen Shot.png in Resources */,
+				182D40EA25D2222B0080F654 /* ScreenShot.png in Resources */,
 				182D40E625D21BE90080F654 /* background.jpg in Resources */,
 				182D40C925D12A3F0080F654 /* LaunchScreen.storyboard in Resources */,
 				182D40C625D12A3F0080F654 /* Assets.xcassets in Resources */,
